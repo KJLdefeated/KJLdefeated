@@ -1,5 +1,7 @@
 ## Hi there, I am Kai-Jie Lin.
 
+You can reach me by email: linkai0508@gmail.com
+
 ![KJLdefeated's Stats](https://github-readme-stats.vercel.app/api?username=KJLdefeated&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 <!--
