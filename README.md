@@ -2,7 +2,7 @@
 
 You can reach me by email: linkai0508@gmail.com
 
- ![KJLdefeated's Stats](https://github-readme-stats.vercel.app/api?username=KJLdefeated&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+[![KJLdefeated's GitHub stats](https://github-stats-extended.vercel.app/api?username=KJLdefeated)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **KJLdefeated/KJLdefeated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
