@@ -1,20 +1,26 @@
-## Hi there, I am Kai-Jie Lin.
+## Hi, I'm Kai-Jie Lin (KJ)
 
-You can reach me by email: linkai0508@gmail.com
+I work at the intersection of **RL and ML systems** — making LLM post-training both smarter and faster.
 
-[![KJLdefeated's GitHub stats](https://github-stats-extended.vercel.app/api?username=KJLdefeated)](https://github.com/stats-organization/github-stats-extended)
+### Research Interests
+
+- **RL for LLMs** — GRPO/PPO post-training, test-time scaling, self-rewarding and intrinsic reward signals
+- **ML systems** — train–inference consistency, distributed training (Megatron-LM), high-performance CUDA/Triton kernels
+- **RL & Bayesian optimization** — non-Markovian RL for multi-objective BO
+
+### Open Source
+
+- **Core maintainer of [RL-Align/RL-Kernel](https://github.com/RL-Align/RL-Kernel)** — CUDA/Triton kernels for bitwise-consistent RL training across training/inference engines.
+- **[RL.cu](https://github.com/KJLdefeated/RL.cu)** — from-scratch RLVR training + inference engine for LLMs in pure CUDA/C++
+
+### Skill Set
+
+| | |
+|---|---|
+| **Languages** | Python, C++, CUDA, Triton |
+| **ML / RL** | PyTorch, Megatron-LM, vLLM, GRPO/PPO, LLM post-training |
+| **Systems** | Kernel optimization, numerical consistency, TP/CP parallelism, Slurm |
 
 <!--
-**KJLdefeated/KJLdefeated** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![KJLdefeated's GitHub stats](https://github-stats-extended.vercel.app/api?username=KJLdefeated)
 -->
