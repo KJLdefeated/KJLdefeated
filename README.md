@@ -2,6 +2,8 @@
 
 I work at the intersection of **RL and ML systems** — making LLM post-training both smarter and faster.
 
+You can reach me by email: linkai0508@gmail.com
+
 ### Research Interests
 
 - **RL for LLMs** — GRPO/PPO post-training, test-time scaling, self-rewarding and intrinsic reward signals
